@@ -1,8 +1,11 @@
 # Proyecto React
 
-- Weather App.
-
 <img src='public/kruger.png' width=50px>
+
+## Weather App.
+
+<img src='public/weatherapp.jpg'>
+
 
 ## Built With:
 
@@ -32,7 +35,7 @@ Use the following steps to run this project locally on desarrollo branch:
 ### Deployment
 
 For a live demo please click on the following link:
-[Despliegue en vercel](https://react-proyect-ecom.vercel.app/tareas)
+[Vercel](https://weather-api-react-eight.vercel.app/)
 
 
 
