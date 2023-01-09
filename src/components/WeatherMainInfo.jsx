@@ -10,7 +10,7 @@ const WeatherMainInfo = ({weather}) => {
             <div>
                 <div>
                     <img src={`http:${weather?.current.condition.icon}`}
-                        width="128"
+                        width="80px"
                         alt={weather?.current.condition.text}
                     />
                 </div>

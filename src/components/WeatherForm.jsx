@@ -20,8 +20,7 @@ const WeatherForm = ({onChangeCity}) => {
 
 
     return ( 
-        <formualrio>
-        <Form onSubmit={handleSubmit}>
+        <Form id="formualrio" onSubmit={handleSubmit}>
             <Form.Group >
                 <Form.Label>Ingrese la ciudad</Form.Label>
                 <Form.Control id="Int" type="text" onChange={onChangeled} ></Form.Control>
@@ -29,7 +28,6 @@ const WeatherForm = ({onChangeCity}) => {
                 </Button>
             </Form.Group>
          </Form>   
-      </formualrio>
      );
 }
  
