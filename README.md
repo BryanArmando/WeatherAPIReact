@@ -23,7 +23,7 @@ Use the following steps to run this project locally on desarrollo branch:
 
 - get in the directory you want this folder to appear
 
-- put: git clone `git@github.com:BryanArmando/weatherApi.git`
+- put: git clone `git@github.com:BryanArmando/WeatherAPIReact.git`
 
 - open the folder with a code editor (VS Code preferred)
 
